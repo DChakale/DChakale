@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=e67c4f&center=true&random=false&width=435&lines=Hi...+I'm+Dhanaji+Chakale;" alt="Typing SVG" />
   </a></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DChakale&label=Profile%20views&color=0e75b6&style=flat" alt="DChakale" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DChakale&label=Profile%20views&color=red&style=plastic&abbreviated=true" alt="DChakale" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -54,14 +54,20 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DChakale&" alt="DChakale" /></p>
 
+<div align="center"><p>
+<h3><b>📍Profile Visitor Count</b></h3>
+<img src="https://komarev.com/ghpvc/?username=DChakale&label=Profile%20views&color=red&style=plastic&abbreviated=true" alt="DChakale" width="135px" hight="50px" /> </p></div>
 
-<div align=center>
-    <h3><b>📍 Profile Visitor Count</b></h3>
+
+
+
+<!--div align=center>
+    
 </div>
-<!-- retro visitor counter -->  
+< retro visitor counter >  
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/DChakale/count.svg" />  
-</p>
+</p-->
 <!--
 **DChakale/DChakale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
