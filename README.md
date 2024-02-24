@@ -1,11 +1,11 @@
-<h1 align="center">
+<h1 align="center" style=color:#b6fbff>
   Welcome to Dhanaji's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 </h1>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=A%20Passionate%20Developer;A%20Quick%20Learner;&font=Fira%20Code&center=true&width=500&height=45&color=e67c4f&vCenter=true&size=24" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=A%20Passionate%20Developer;A%20Quick%20Learner;&font=Fira%20Code&center=true&width=500&height=45&color=f83600&vCenter=true&size=24" alt="Typing SVG"/>
   </a></h1>
   
   <img align="right" alt="GIF" src="https://paradox.ba/paradox/wp-content/uploads/2019/09/4paradox-animation.gif" width="500" height="320" style="max-width: 100%;">
@@ -13,10 +13,20 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DChakale&label=Profile%20views&color=red&style=plastic&abbreviated=true" alt="DChakale" /> </p>
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+- 🔭 I’m currently working on **New Projects**
+
+- 🌱 I’m currently learning **Spring Boot 3**
+
+- 💬 Ask me about **C++, Java, Databases, Angular**
+
+- 📫 How to reach me :  ****<a href="mailto:dhananjay.chakale2000@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="25" width="25"/></a>****
+
 <h3 align="">Connect with me:</h3>
 <p align="left">
-<a href="mailto:dhananjay.chakale2000@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" width="40"/></a>
+
 <a href="https://www.linkedin.com/in/dhanaji-chakale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" /></a>
 <a href="https://www.facebook.com/dhananjay.chakale.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" /></a>
 <a href="https://www.instagram.com/dhananjay.chakale/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Insta" height="40" width="40" /></a>
@@ -40,7 +50,7 @@
 <!--a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a--> </p>
 
 
-<h3>Backend Development:</h3>
+<!--h3>Backend Development:</h3>
 <p>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
@@ -51,15 +61,21 @@
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
 
 
-<!--h3 >Testing:</h3>
+<h3 >Testing:</h3>
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a--> 
 
 
 <h3 >Softwares:</h3>
 <p > <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/></a> </p>
+<a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40" style="background-color:white"/></a>
+<a href="https://windows.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/000000/windows-10.png" alt="windows" width="40" height="40"/> </a>
+ <a href="https://visualstudiocode.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" width="40" height="40"/> </a>
+ <a href="https://chrome.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/chrome.png" alt="chrome" width="40" height="40"/> </a>
+ </a>
+ <!--a href="https://microsoftoffice.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png" alt="msoffice" width="40" height="40"/> </a>
+ <a href="https://eclipse.org" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/nolan/64/java-eclipse.png" alt="eclipse" width="40" height="40"/> </a></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-</div>
+</div-->
 
 
 
@@ -77,15 +93,15 @@
 <tr border="0">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=DChakale&show_icons=true&theme=github_dark&title_color=41ec55&text_color=3dffd8&locale=en" alt="DChakale" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=DChakale&show_icons=true&theme=github_dark&title_color=f83600&text_color=fe8c00&locale=en" alt="DChakale" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DChakale" src="https://github-readme-streak-stats.herokuapp.com/?user=DChakale&" />
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DChakale" src="https://github-readme-streak-stats.herokuapp.com/?user=DChakale&show_icon=true&theme=github_dark&locale=en" />
   
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=DChakale&show_icons=true&theme=github_dark&title_color=10fe97&text_color=80fdff&locale=en&layout=compact" alt="DChakale"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=DChakale&show_icons=true&theme=github_dark&title_color=f83600&text_color=fe8c00&locale=en&layout=compact" alt="DChakale"/>
   
   </td>
 </tr>
