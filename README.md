@@ -13,7 +13,6 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DChakale&label=Profile%20views&color=red&style=plastic&abbreviated=true" alt="DChakale" /> </p>
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 - 🔭 I’m currently working on **New Projects**
