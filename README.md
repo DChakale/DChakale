@@ -3,6 +3,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 </h1>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+
 
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=A%20Passionate%20Developer;A%20Quick%20Learner;&font=Fira%20Code&center=true&width=500&height=45&color=f83600&vCenter=true&size=24" alt="Typing SVG"/>
@@ -66,11 +68,12 @@
 
 <h3 style=color:#2f81f7>Softwares:</h3>
 <p > <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40" style="background-color:white"/></a>
+<a href="https://github.com/DChakale" target="_blank" ><i class="fa fa-github fa-3x" aria-hidden="true" alt="GitHub"></i></a>
 <a href="https://windows.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/000000/windows-10.png" alt="windows" width="40" height="40"/> </a>
  <a href="https://visualstudiocode.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" width="40" height="40"/> </a>
  <a href="https://chrome.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/chrome.png" alt="chrome" width="40" height="40"/> </a>
  </a>
+ 
  <!--a href="https://microsoftoffice.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png" alt="msoffice" width="40" height="40"/> </a>
  <a href="https://eclipse.org" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/nolan/64/java-eclipse.png" alt="eclipse" width="40" height="40"/> </a></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
